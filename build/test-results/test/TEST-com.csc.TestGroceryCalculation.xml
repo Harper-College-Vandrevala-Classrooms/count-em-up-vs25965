@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.csc.TestGroceryCalculation" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-09-13T19:29:16" hostname="EL_TOTE1" time="0.059">
+  <properties/>
+  <testcase name="chechkonesmethodnooverflow()" classname="com.csc.TestGroceryCalculation" time="0.018"/>
+  <testcase name="chechktenthsmethodoverflow()" classname="com.csc.TestGroceryCalculation" time="0.0"/>
+  <testcase name="chechktensmethodnooverflow()" classname="com.csc.TestGroceryCalculation" time="0.001"/>
+  <testcase name="chechkonesmethodoverflow2()" classname="com.csc.TestGroceryCalculation" time="0.001"/>
+  <testcase name="chechktenthsmethodoverflow2()" classname="com.csc.TestGroceryCalculation" time="0.0"/>
+  <testcase name="chechkhundredsmethodoverflow()" classname="com.csc.TestGroceryCalculation" time="0.001"/>
+  <testcase name="chechktensmethodoverflow()" classname="com.csc.TestGroceryCalculation" time="0.004"/>
+  <testcase name="chechktenthsmethodnooverflow()" classname="com.csc.TestGroceryCalculation" time="0.001"/>
+  <testcase name="chechkhundredsmethodoverflow2()" classname="com.csc.TestGroceryCalculation" time="0.0"/>
+  <testcase name="chechkonesmethodoverflow()" classname="com.csc.TestGroceryCalculation" time="0.001"/>
+  <testcase name="chechkhundredsmethodnooverflow()" classname="com.csc.TestGroceryCalculation" time="0.002"/>
+  <system-out><![CDATA[***This is a total overflow*** ]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
